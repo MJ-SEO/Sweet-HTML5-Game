@@ -28,7 +28,7 @@
 			name: "creamsicle",
 			slices: [{
 				name: "falling",
-				src: "images/creamsicle.png"
+				src: "images/man.png"
 			}, {
 				name: "crashed",
 				src: "images/creamsicle-broken.png"
@@ -37,7 +37,7 @@
 			name: "bombpop",
 			slices: [{
 				name: "falling",
-				src: "images/bomb-pop.png"
+				src: "images/man.png"
 			}, {
 				name: "crashed",
 				src: "images/bomb-pop-broken.png"
@@ -46,7 +46,7 @@
 			name: "popsicle",
 			slices: [{
 				name: "falling",
-				src: "images/popsicle.png"
+				src: "images/man.png"
 			}, {
 				name: "crashed",
 				src: "images/popsicle-broken.png"
@@ -55,7 +55,7 @@
 			name: "pushUp",
 			slices: [{
 				name: "falling",
-				src: "images/push-up.png"
+				src: "images/man.png"
 			}, {
 				name: "crashed",
 				src: "images/push-up-broken.png"
